@@ -1,0 +1,300 @@
+General Motors
+Ford Motor
+Exxon Mobil
+Intl. Business Machines
+General Electric
+Mobil
+Altria Group
+Chrysler
+DuPont
+Texaco
+ChevronTexaco
+Amoco
+Shell Oil
+Procter & Gamble
+Boeing
+Occidental Petroleum
+United Technologies
+Eastman Kodak
+Marathon Oil
+Dow Chemical
+Xerox
+Atlantic Richfield
+PepsiCo
+Nabisco Group Holdings
+McDonnell Douglas
+Tenneco Automotive
+Digital Equipment
+CBS
+Rockwell Automation
+ConocoPhillips
+Honeywell Intl.
+3M
+Hewlett-Packard
+Sara Lee
+International Paper
+ConAgra Foods
+Alcoa
+Caterpillar
+Goodyear Tire & Rubber
+Unocal
+Georgia-Pacific
+Weyerhaeuser
+Unisys
+General Dynamics
+Lockheed Martin
+Sunoco
+Johnson & Johnson
+Motorola
+Anheuser-Busch
+Bristol-Myers Squibb
+Coca-Cola
+Raytheon
+Union Carbide
+Monsanto
+Coastal
+Unilever U.S.
+Archer Daniels Midland
+Ashland
+Time Warner
+Borden Chemical
+Textron
+TRW
+Baxter International
+Fortune Brands
+Honeywell
+Deere
+Emerson Electric
+Wyeth
+Ralston Purina
+Merck
+Texas Instruments
+LTV
+Sealed Air
+Whirlpool
+North American Philips
+Reynolds Metals
+Hoechst Celanese
+NCR
+Hanson Industries NA
+Pfizer
+Fort James
+H.J. Heinz
+PPG Industries
+Martin Marietta
+General Mills
+Kimberly-Clark
+Quaker Oats
+Campbell Soup
+Amerada Hess
+Abbott Laboratories
+Bayer Corporation
+BASF
+Lyondell Chemical
+Stone Container
+Bethlehem Steel
+Apple Computer
+Champion International
+Northrop Grumman
+Dana
+Litton Industries
+Cooper Industries
+Bestfoods
+Colgate-Palmolive
+Scott Paper
+Citgo Petroleum
+American Cyanamid
+Collins & Aikman
+Kellogg
+Teledyne
+Mead
+Beatrice
+OfficeMax
+Navistar International
+Warner-Lambert
+Eaton
+Eli Lilly
+Ryerson Tull
+Whitman
+Dresser Industries
+AMAX
+Coca-Cola Enterprises
+Great Northern Nekoosa
+Chiquita Brands Intl.
+Gillette
+Owens-Illinois
+Johnson Controls
+American Standard
+Levi Strauss
+Grumman
+Gannett
+Times Mirror
+Cummins
+FMC
+Ingersoll-Rand
+Avon Products
+Paccar
+Intel
+Furniture Brands Intl.
+Schering-Plough
+Agway
+Black & Decker
+Masco
+R.R. Donnelley & Sons
+Kerr-McGee
+Hercules
+Maytag
+Wang Laboratories
+FINA
+J.E. Seagram
+Pharmacia
+Owens Corning
+Farmland Industries
+Pitney Bowes
+Control Data
+Revlon
+Smurfit-Stone Container
+Universal
+Compaq Computer
+Armstrong Holdings
+Brunswick
+AMP
+Union Camp
+Ethyl
+Pennzoil
+Phelps Dodge
+Air Products & Chem.
+Rohm & Haas
+Quantum Chemical
+Zenith Electronics
+Premark International
+National Steel
+WestPoint Stevens
+VF
+Tyson Foods
+Olin
+Goodrich
+Parker Hannifin
+ARMCO
+Berkshire Hathaway
+Harris
+Corning
+Tribune
+Land O'Lakes
+Maxxam
+Hershey Foods
+Engelhard
+National Semiconductor
+Knight-Ridder
+Valhi
+Hormel Foods
+Baker Hughes
+Central Soya
+Westvaco
+Thiokol
+Uniroyal Goodrich Tire
+Asarco
+Manville
+USG
+Burlington Industries Equity
+Illinois Tool Works
+AMDAHL
+Dover
+Sherwin-Williams
+Temple-Inland
+McDermott
+Diamond Shamrock
+Sequa
+Louisiana-Pacific
+Mapco
+GenCorp
+Stanley Works
+Tyco International
+Tyco Laboratories
+Freeport-McMoran
+Mack Trucks
+Cabot
+Aeroquip-Vickers
+Polaroid
+General Signal
+Becton Dickinson
+Springs Industries
+Crown Holdings
+Willamette Industries
+Intl. Multifoods
+Reader's Digest Assn.
+Penn Central
+New York Times
+Cyprus Amax Minerals
+MID-AMERICA DAIRYMEN
+McGraw-Hill
+Molson Coors Brewing
+Sun Microsystems
+Avery Dennison
+Square D
+Dow Jones
+Walter Industries
+Harcourt Brace Jovanovich
+Henley Group
+Metaldyne
+Dean Foods
+Murphy Oil
+Outboard Marine
+Sundstrand
+Sonoco Products
+PerkinElmer
+Tandem Computers
+Great American Mgmt. & Inv.
+E-SYSTEMS
+Fleetwood Enterprises
+Coltec Industries
+Arvin Industries
+Witco
+Himont
+Dow Corning
+National Service Industries
+Tecumseh Products
+Norton
+Timken
+DR Holdings Inc. of Delaware
+Loral
+Lafarge
+Joy Global
+General Instrument
+Lorillard
+Clorox
+Echlin
+Crane
+Bowater
+Washington Post
+Tosco
+Tektronix
+Clark Equipment
+Esselte Business Systems
+Inspiration Resources
+Reliance Electric
+Liz Claiborne
+Hasbro
+York International
+Crown Central
+Amoskeag
+Seagate Technology
+Certainteed
+National Gypsum
+Harsco
+Rubbermaid
+Cyclops Industries
+Varian Associates
+Weirton Steel
+Figgie International
+Data General
+Nortek
+Fruit of the Loom
+Deluxe
+Hartmarx
+Federal Paper Board
+American Greetings
+Nucor
+E.W. Scripps
+McCormick
+Duracell International
