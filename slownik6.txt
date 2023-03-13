@@ -84,7 +84,6 @@ ze
 zo
 da
 zi
-zu
 de
 do
 ba
@@ -97,7 +96,6 @@ pi
 pu
 pe
 po
-ja
 ju
 je
 jo
@@ -110,6 +108,9 @@ tu
 du
 fi
 fe
+ji
+ja
+je
 fo
 a
 i
@@ -117,3 +118,4 @@ u
 e
 o
 n
+m
